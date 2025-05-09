@@ -63,11 +63,19 @@ You should now see the interactive TODO App.
 ### Task List
 ![Task List](images/list.png)
 
-### Task List
-![Complete Task List](images/c-list.png)
-### Task List
+### Pending List
+![Pending Task List](images/c-list.png)
+### HELP
 ![Help](images/help.png)
-### Task List
+
+### version
+![version](images/version.png)
+
+### Quiting App
+```
+quit
+```
+
 
 
 
