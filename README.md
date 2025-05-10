@@ -35,7 +35,7 @@ git clone https://github.com/AlphaAkhil/TODO.git
 cd TODO
 ```
 
-2. 📦 Install .NET SDK
+### 2. 📦 Install .NET SDK
 Make sure the .NET SDK (version 6 or higher) is installed:
 ```
 dotnet --version
@@ -43,12 +43,12 @@ dotnet --version
 ```
 If not installed, download and install it from the official Download Page.
 
-3. 🛠️ Build the Project
+### 3. 🛠️ Build the Project
 ```
 dotnet build
 
 ```
-4. ▶️ Run the Application
+### 4. ▶️ Run the Application
 ```
 dotnet run
 
